@@ -1,0 +1,36 @@
+/__pycache__/
+/venv/
+/.venv/
+/dist/
+/build/
+/PyMongoCopy.spec
+*.spec
+/pip-wheel-metadata/
+/PyMongoCopy.zip
+/PyMongoCopy.tar.gz
+/PyMongoCopy.tar.bz2
+/PyMongoCopy.tar.xz
+/PyMongoCopy.tar.lzma
+/PyMongoCopy.tar.lz
+/PyMongoCopy.tar.lzo
+/PyMongoCopy.tar.lzh
+/PyMongoCopy.tar.lha
+
+# Python artifacts
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# macOS artifacts
+.DS_Store
+
+# Logs
+*.log
+
+# PyInstaller artifacts
+*.toc
+*.pkg
+*.pyz
+warn-*.txt
+xref-*.html
